@@ -309,13 +309,13 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 80%;
 }
 .skills-content .right .js::before{
     width: 80%;
 }
 .skills-content .right .python::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .linux::before{
     width: 70%;
@@ -355,7 +355,7 @@ section .title::after{
     background-color: #fff;
     border: 1px solid white;
     min-height: 14em;
-    width: 28em;
+    width: 27em;
     overflow: hidden;
     border-radius: 10px;
     margin: 28px;
