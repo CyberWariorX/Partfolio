@@ -46,7 +46,7 @@ section{
 }
 section .title{
     position: relative;
-    text-align: center;
+    text-align: start;
     font-size: 40px;
     font-weight: 700;
     margin-bottom: 60px;
@@ -173,7 +173,7 @@ section .title::after{
     color: #fff;
     background-color: #3a6cf4;
     text-decoration: none;
-    font-size: 1.1em;
+    font-size: 1.25em;
     font-weight: 600;
     display: inline-block;
     padding: 0.9375em 2.1875em;
