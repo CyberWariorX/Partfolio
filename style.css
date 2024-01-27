@@ -87,7 +87,7 @@ section .title::after{
 }
 .navbar .max-width{
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: space-between;
 }
 .navbar .logo a{
