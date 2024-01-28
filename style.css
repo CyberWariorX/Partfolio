@@ -193,7 +193,7 @@ section .title::after{
     color: #fff;
     font-size: 1.5rem;
     padding-right: 10px;
-    margin-left: 30px;
+    margin-left: 40px;
 }
 
 .social-icons a:hover {
@@ -646,7 +646,7 @@ footer span a:hover{
         margin-left: 30px;
     }
     .social-icons a {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         padding-left: 5px;
     }
     .max-width{
@@ -720,7 +720,7 @@ footer span a:hover{
         line-height: 38px;
     }
     footer span a{
-    font-size: 11px;
+    font-size: 15px;
     color: #3a6cf4;
     text-decoration: none;
     }
@@ -745,8 +745,8 @@ footer span a:hover{
       font-size: 62%;
     }
     .media-icons a{
-        font-size: 1.2rem;
-        padding: 7px;
+        font-size: 1.1rem;
+        padding: 7;
     }
   }
   
