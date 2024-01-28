@@ -627,26 +627,27 @@ footer span a:hover{
     .main h2{
         margin-top: 150px;
         font-size: 20px;
-        font-width: 500;
+        font-width: 600;
         margin-left: 20px;
     }
     .main h2 span {
         font-size: 25px;
-        font-width: 600; 
+        font-width: 700; 
         margin-left: 20px;
     }
     .main h3 {
         font-size: 20px;
-        font-width: 500;
+        font-width: 550;
         margin-left: 20px;
-        padding: 10px 30px;
+        padding: 10px 20px;
     }
     .main-btn {
-        font-size: 1.2rem;
-        margin-left: 30px;
+        font-size: 1.25rem;
+        margin-left: 20px;
     }
     .social-icons a {
         font-size: 1.5rem;
+        padding-left: 15px;
     }
     .max-width{
         max-width: 930px;
