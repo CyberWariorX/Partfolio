@@ -628,7 +628,7 @@ footer span a:hover{
         margin-top: 150px;
         font-size: 20px;
         font-width: 500;
-        margin-left: 30px;
+        margin-left: 20px;
     }
     .main h2 span {
         font-size: 25px;
@@ -642,8 +642,8 @@ footer span a:hover{
         padding: 10px 30px;
     }
     .main-btn {
-        font-size: 2rem;
-        margin-left: 50px;
+        font-size: 1.5rem;
+        margin-left: 30px;
     }
     .social-icons a {
         font-size: 1.5rem;
