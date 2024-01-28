@@ -78,7 +78,7 @@ section .title::after{
     position: fixed;
     width: 100%;
     z-index: 999;
-    padding: 5px 0;
+    padding: 7.5px 0;
     font-family: 'Poppins', sans-serif;
     transition: all 0.3s ease;
 }
@@ -638,16 +638,16 @@ footer span a:hover{
     .main h3 {
         font-size: 20px;
         font-width: 550;
-        margin-left: 20px;
+        margin-left: 10px;
         padding: 10px 20px;
     }
     .main-btn {
-        font-size: 1.25rem;
-        margin-left: 20px;
+        font-size: 1.2rem;
+        margin-left: 30px;
     }
     .social-icons a {
         font-size: 1.5rem;
-        padding-left: 15px;
+        padding-left: 11px;
     }
     .max-width{
         max-width: 930px;
@@ -719,9 +719,12 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+    footer span a{
+    font-size: 11px;
+    color: #3a6cf4;
+    text-decoration: none;
+    }
 }
-
-
 
 /* Responsive */
 @media (max-width: 991px) {
