@@ -67,7 +67,7 @@ section .title::after{
     position: absolute;
     bottom: -8px;
     left: 50%;
-    font-size: 15px;
+    font-size: 20px;
     color: crimson;
     padding: 0 5px;
     background: #fff;
@@ -92,10 +92,10 @@ section .title::after{
 }
 .navbar .logo a{
     color: #fff;
-    font-size: 25px;
+    font-size: 30px;
     font-family: Times;
     margin-left: 5px;
-    font-weight: 550;
+    font-weight: 700;
 }
 .navbar .logo a span{
     color: crimson;
@@ -604,9 +604,9 @@ footer span a:hover{
     }
     .navbar .logo a{
     color: #fff;
-    font-size: 20px;
+    font-size: 15px;
     font-family: Times;
-    font-weight: 450;
+    font-weight: 600;
 }
     .navbar .menu{
         position: fixed;
