@@ -696,9 +696,9 @@ footer span a:hover{
     }
     .navbar .logo a{
     color: #fff;
-    font-size: 30px;
+    font-size: 12px;
     font-family: Times;
-    font-weight: 450;
+    font-weight: 700;
 }
 }
 @media (max-width: 630px) {
